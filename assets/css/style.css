@@ -1,0 +1,32 @@
+/*
+*THCBin Front End Css
+*/
+.thcbin_btn{
+    display: inline-block;
+    width: 40%;
+    padding: 20px;
+    font-size: 20px;
+    margin: 0 2%;
+    border: 1px solid #cccccc;
+    background: #f8f8f8;
+    text-align: center;
+    text-transform: uppercase;
+    color: #444444;
+    transition: 0.5 all;
+    text-decoration: none;
+}
+
+.thcbin_btn:hover{
+    text-decoration: none;
+    color:inherit;
+}
+
+.like_btn:hover{
+    background: #2d8f58;
+    color:#ffffff;
+}
+
+.dislike_btn:hover{
+    background: #fc5a51;
+    color:#ffffff;
+}
